@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://anant-singh1.github.io/PortFolio-M-/](https://anant-singh1.github.io/PortFolio-M-/)
+- 👨‍💻 All of my projects are available at [https://anantsingh1.netlify.app/)
 
 - 📫 How to reach me **anantsingh7060@gmail.com**
 
